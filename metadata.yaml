@@ -1,0 +1,34 @@
+_repo: Homeri-Carmina-et-Cycli-Epici-Reliqui0xe6-Pars-Tertia-Hymni_52691
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+  editor:
+    agent_name: Firmin-Didot, Ambroise
+    alias: Didot, Ambroise Firmin
+    birthdate: 1790
+    deathdate: 1876
+    gutenberg_agent_id: '47003'
+    url: http://www.gutenberg.org/2009/agents/47003
+description: ''
+gutenberg_issued: '2016-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52691'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Hymns, Greek (Classical) -- Translations into Latin'
+- !lcsh 'Gods, Greek -- Poetry'
+- GITenberg
+title: 'Homeri Carmina et Cycli Epici Reliquiæ. Pars Tertia: Hymni'
+url: http://www.gutenberg.org/ebooks/52691
